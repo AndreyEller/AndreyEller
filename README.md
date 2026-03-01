@@ -9,15 +9,10 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/AndreyEller">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreyEller&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyEller&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
 
   <p align="center">
-    JavaScript
+    Estudando JavaScript
   </p>
 
 <div align="center" valign="top"><br>
